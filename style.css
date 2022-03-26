@@ -1,0 +1,88 @@
+.background {
+    background-image: url(./resources/images/nataliawebsite.png);
+    background-size:83% ;
+    background-repeat: space;
+    background-position-x: 90px;
+
+   
+   background-color:white;
+   
+   
+  }
+.navi{
+    max-width: 90%;
+    margin: 206px auto;
+    color: goldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-decoration-color: black;
+}
+
+.navi a{
+    padding-left: 19%;
+}
+.nav{
+    max-width: 90%;
+    margin: 90px auto;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    text-decoration-color: black;
+    
+}
+.nav a{
+    padding-left: 19%;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:rgb(155, 6, 6);
+    margin: 30 px auto;
+}
+ .imag {
+     background-color:rgb(250, 246, 250);
+
+}
+  header {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 70px;
+      padding-left: 35%;
+      margin-block: 66px;
+}
+.banner{
+    background-color: rgb(231, 228, 223);
+    margin-top: 75px;
+    text-align-last: center;
+}
+
+.flowers{
+    position:center;
+}
+
+.backgroundpic{
+    background-image: url(./resources/images/getfeedom1.jpg);
+    background-size:83% ;
+    background-repeat: space;
+    background-position-x: 90px;
+
+   
+   background-color:white;
+   
+    
+}
+.contact{
+      font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:whitesmoke;
+    margin: 30 px auto;
+
+}
+
+p{  font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    color:rgb(146, 25, 25);
+    margin: 30 px auto;
+    padding-left: 19%;
+}
+}
